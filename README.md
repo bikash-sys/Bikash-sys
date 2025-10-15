@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/bikash-jha-888184368/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="40" height="30"/>
   </a>
----
+
 
 ## 🛠️ Languages & Tools
 <p align="left">
