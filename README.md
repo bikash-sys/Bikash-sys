@@ -5,7 +5,7 @@
 ## 🔹 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bikjha2007@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikash-jha-888184368/)
+<a href="https://www.linkedin.com/in/bikash-jha-888184368/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankur-bhadauria-515024246/" height="30" width="40" /></a>
 
 ---
 
