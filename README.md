@@ -4,14 +4,17 @@
 
 ## 🔹 Connect with Me
 
-[![Email](https://www.svgrepo.com/show/303161/gmail-icon-logo.svg)](mailto:bikjha2007@gmail.com) 
-<a href="https://www.linkedin.com/in/bikash-jha-888184368/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankur-bhadauria-515024246/" height="30" width="40" /></a>
-
+<p align="left">
+  <a href="mailto:bikjha2007@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="Email" width="40" height="30"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bikash-jha-888184368/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="40" height="30"/>
+  </a>
 ---
 
 ## 🛠️ Languages & Tools
 <p align="left">
-  <!-- Programming Languages -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
@@ -28,7 +31,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 
-  <!-- Web Frameworks / Frontend -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
@@ -36,7 +38,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   </a>
 
-  <!-- Backend / Database -->
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
@@ -47,7 +48,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
 
-  <!-- Frontend / Styling -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
